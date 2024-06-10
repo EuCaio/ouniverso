@@ -1,0 +1,58 @@
+.top {
+    background-color: rgb(7, 7, 7);
+    height: 5.625rem;
+}
+
+.text-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.top-img {
+    width: 5.625rem;
+    height: 5.625rem;
+    border-radius: 1rem;
+}
+
+.top-title {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: rgb(223, 152, 0);
+}
+
+.meio {
+    background: #000000;
+    padding: 8rem;
+}
+
+.fotos {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.text {
+    display: flex;
+    justify-content: space-around;
+    color: #ffffff;
+}
+
+.base {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(2, 0, 26);
+    padding: 1rem;
+}
+
+.base-title {
+    color: rgb(255, 255, 255);
+}
+
+.base-link {
+    color: rgb(255, 255, 255);
+}
